@@ -11,7 +11,7 @@ import os
 
 pVersion = '0.0.1'
 pName = 'HazarDungeon'
-
+pUrl = "https://raw.githubusercontent.com/GAUCHE-ROHR/JoySroHazar-PLUGIN-ARCHIVES/refs/heads/main/HazarDungeon.py"
 # ______________________________ Initializing ______________________________ #
 
 DIMENSIONAL_COOLDOWN_DELAY = 10800 
